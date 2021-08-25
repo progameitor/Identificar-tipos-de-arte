@@ -1,7 +1,7 @@
 #paquetes instalados para el dockerfile
 
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==2.5.1
 tensorflow-estimator==1.14.0
 requests==2.21.0
 requests-unixsocket==0.1.5
